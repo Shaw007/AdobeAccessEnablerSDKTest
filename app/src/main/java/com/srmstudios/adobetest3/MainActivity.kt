@@ -17,9 +17,13 @@ class MainActivity : AppCompatActivity() {
 
         findViewById<Button>(R.id.btnIntiateRequesterCall).setOnClickListener {
             mvpdManagerJava.setRequester()
+            // above should result in calling the setRequestorComplete() callback in MVPDManagerJava
+            // but it is not working
         }
 
         findViewById<Button>(R.id.btnTriggerCallbackManually).setOnClickListener {
+            // verify that the IAccessEnablerDelegate is properly set on the AccessEnabler instance
+            // in MVPDManagerJava
             val callback = mvpdManagerJava.getAcccessEnablerDelegate()
             callback.setRequestorComplete(25)
         }

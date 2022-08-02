@@ -22,8 +22,8 @@ public class MVPDManagerJava {
                         context,
                         "sp.auth-staging.adobe.com",
                         "eyJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJkM2Y4NmVjMi0wNWIxLTRhM2ItYjQzMi1jNjU5NWViNDFhMzQiLCJuYmYiOjE2NTkxMTAxNzIsImlzcyI6ImF1dGguYWRvYmUuY29tIiwiaWF0IjoxNjU5MTEwMTcyfQ.N_GNU2Jwxt9LWrk7UMnV9c13EAxDsD0hldGxCq1sfWQNxM9DXmEztnD8o3toQr06HpVX3w9baxac6VIdHziaao_bKR7PaWEpIzR9nNSEXfF8Lh3i7klzPrqXg45Cp-wh-v9Vi4ZaHVGf6j1zmw86sonTQ_fqlZN05JtfuwIzpE6ticxibwpazw_fTYAyK-d_LscxDgQj0CoQ7zKwofHvbxSoGroGjTz5FPRfjtgOQ6RZhvkM_oZ7BTwhYXCmezqRWK954EefgzUXWn4WlQ7MlczOKKPeoCBne5_Yybk4BvPjtDSj1uf4zwGyRriOpJ2pKVEI2YIbvgK3q38g6YUWDA",
-                        //"eyJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJkM2Y4NmVjMi0wNWIxLTRhM2ItYjQzMi1jNjU5NWViNDFhMzQiLCJuYmYiOjE2NTkxMTAzNjMsImlzcyI6ImF1dGguYWRvYmUuY29tIiwiaWF0IjoxNjU5MTEwMzYzfQ.e2125zMjdYMC-0HuQ4bTWS_RpKJt4dHL2BkknbnGHjRprC8Bue6mliOOrazmnZzuvqQfSIU704r57uUH2jaAsLbgz3G2wWUXDHy7jL3t9daIC2W0rwvPTRfSwuGA9gExeBfFX2R1bhTjTTYSYQYLUa3Ik1Arn19dqDN_0FdDNqa5dsCa3MkZ0JK0VyhO4CWC0biVqLqMbQtMGU6CD1C_sugVn9OdE9mBwmhCf6R-35WRmgKWvKa2y3ZSRPC9ywO_QfXkoeQzvHg4c5O2ZVY7w_BDQ4bq8Ku_-BkkPZcrk2GHyZFhs8RC3EjlPCQsunGaxUc-jzicqXsNGEY438bZAQ",
-                        "demoapp.com"
+                        // "eyJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJkM2Y4NmVjMi0wNWIxLTRhM2ItYjQzMi1jNjU5NWViNDFhMzQiLCJuYmYiOjE2NTkxMTAzNjMsImlzcyI6ImF1dGguYWRvYmUuY29tIiwiaWF0IjoxNjU5MTEwMzYzfQ.e2125zMjdYMC-0HuQ4bTWS_RpKJt4dHL2BkknbnGHjRprC8Bue6mliOOrazmnZzuvqQfSIU704r57uUH2jaAsLbgz3G2wWUXDHy7jL3t9daIC2W0rwvPTRfSwuGA9gExeBfFX2R1bhTjTTYSYQYLUa3Ik1Arn19dqDN_0FdDNqa5dsCa3MkZ0JK0VyhO4CWC0biVqLqMbQtMGU6CD1C_sugVn9OdE9mBwmhCf6R-35WRmgKWvKa2y3ZSRPC9ywO_QfXkoeQzvHg4c5O2ZVY7w_BDQ4bq8Ku_-BkkPZcrk2GHyZFhs8RC3EjlPCQsunGaxUc-jzicqXsNGEY438bZAQ",
+                        "adobetest3.com"
                 );
 
 
